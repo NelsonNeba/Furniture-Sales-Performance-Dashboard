@@ -7,7 +7,7 @@
 
 ## 📈 **Dashboard Preview**
 
-![Dashboard Screenshot](Assets/dashboard.png)
+![Dashboard Screenshot](Assets/Dashboard.png)
 
 ---
 
