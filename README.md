@@ -188,13 +188,13 @@ The dashboard's design emphasizes clarity, readability, and user experience:
 
 ## 📧 **Contact for Support**
 
-* **Questions or Feedback?** Feel free to reach out via  [Email](mailto:nelson.mforbi@gmail.com) or open a [GitHub Issue](https://github.com/your-repo/issues) on this repository.
+* **Questions or Feedback?** Feel free to reach out via  [Email](mailto:nelson.mforbi@gmail.com) or open a [GitHub Issue](https://github.com/NelsonNeba/Furniture-Sales-Performance-Dashboard/issues)) on this repository.
 
 ---
 
 ## 🤝 **How to Contribute**
 
-* **Bug Reports:** Please report any issues or bugs encountered via the [Issues](https://github.com/your-repo/issues) section.
+* **Bug Reports:** Please report any issues or bugs encountered via the [Issues](https://github.com/NelsonNeba/Furniture-Sales-Performance-Dashboard/issues)) section.
 * **Feature Suggestions:** We welcome suggestions for design improvements, additional metrics, or new functionalities.
 
 ---
